@@ -58,7 +58,7 @@ const DepositModal: React.FC<DepositModalProps> = ({ onClose }) => {
         return (
           <div className="text-right space-y-4">
             <p className="text-[13px] text-gray-800 leading-relaxed">
-              اهلا بك <span className="font-bold">MOHMD517</span> بقي أمر إيداع مبلغ <span className="text-[#9B4A4E] font-bold">237.47</span> عملة usdt bep 20 او Tron TRC 20 لفتح قناة السحب هذه الضريبه هي اجور منصتنا وليس لها أي صله بمنصه mini pro
+              اهلا بك <span className="font-bold">MOHMD517</span> بقي أمر إيداع مبلغ <span className="text-[#9B4A4E] font-bold">198.47</span> عملة usdt bep 20 او Tron TRC 20 لفتح قناة السحب هذه الضريبه هي اجور منصتنا وليس لها أي صله بمنصه mini pro
             </p>
             
             <div className="space-y-3">
